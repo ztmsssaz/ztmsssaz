@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ztmsssaz
-- 👀 I’m interested in Javacript, React , Coding :)
-- 🌱 I’m currently learning English, German , React and clean code
+- 👋 Hi, I’m Abolfazl !
+- 👀 I’m interested in Javacript, React.js and resolve problems!
+- 🌱 I’m currently learning English, Next.js and clean code
 - 📫 How to reach me: zarei.mrabolfazl@gmail.com
 
 <a href="https://github.com/ztmsssaz">
